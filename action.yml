@@ -6,7 +6,7 @@ inputs:
     required: true
   image-name:
     description: 'Docker Image name'
-    required: true
+    required: false
   image-tag:
     description: 'Docker Image tag'
     default: "latest"
